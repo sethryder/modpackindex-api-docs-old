@@ -1,6 +1,6 @@
 ### Description
 
-Lists modpacks that are currently listed on the site.
+Lists modpacks that are currently on the site.
 
 ### Endpoint
 

@@ -8,7 +8,7 @@ List specific details for a modpack, including what mods are included.
 
 ### Required Parameters
 
-> ID = ID of the Modpack you are requesting.
+> ID = ID of the modpack you are requesting.
 
 ### Sample Result
 

@@ -1,6 +1,6 @@
 ### Description
 
-List details for a mod, including what Modpacks the mod is included in.
+List details for a mod, including what modpacks the mod is included in.
 
 ### Endpoint
 
@@ -8,7 +8,7 @@ List details for a mod, including what Modpacks the mod is included in.
 
 ### Required Parameters
 
-> ID = ID of the Mod you are requesting.
+> ID = ID of the mod you are requesting.
 
 ### Sample Result
 
