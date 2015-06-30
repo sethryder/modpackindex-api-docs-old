@@ -1,0 +1,7 @@
+site_name: Modpack Index API Documentation
+repo_url: https://github.com/sethryder/modpackindex-api-docs
+pages:
+- Home: index.md
+- API Endpoints:
+    - Modpacks: modpacks/index.md
+    - Mods: mods/index.md
