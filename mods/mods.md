@@ -1,5 +1,3 @@
-## Mods
-
 ### Description
 
 Lists mods that are currently on the site.
@@ -12,17 +10,17 @@ Lists mods that are currently on the site.
 >Version - Filter results to include a specific version. You can use 'all' to get all versions.
 
 Current supported versions include:
-	* all
-	* 1-6-4 (1.6.4)
-	* 1-7-10 (1.7.10)
+* all
+* 1-6-4 (1.6.4)
+* 1-7-10 (1.7.10)
 
 ###  Optional Parameters
 
->Limit - Limit the amount of results returned. 
+> Limit - Limit the amount of results returned. 
 
 Defaults to 100.
 
->Offset - Used when your results is greater then your set limit.
+> Offset - Used when your results is greater then your set limit.
 
 Defaults to 0.
 
