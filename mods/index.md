@@ -1,6 +1,4 @@
-# Mod Endpoints
-
-## Mods
+## Mods Endpoint
 
 ### Description
 
@@ -84,7 +82,7 @@ Defaults to 0.
 }
 ```
 
-## Mod
+## Mod Endpoint
 
 ### Description
 

@@ -1,6 +1,4 @@
-# Modpack Endpoints
-
-## Modpacks
+## Modpacks Endpoint
 
 ### Description
 
@@ -84,7 +82,7 @@ Defaults to 0.
 }
 ```
 
-## Modpack
+## Modpack Endpoint
 
 ### Description
 
