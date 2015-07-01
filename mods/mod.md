@@ -10,7 +10,13 @@ List details for a mod, including what modpacks the mod is included in.
 
 > ID = ID of the mod you are requesting.
 
-### Sample Result
+### Sample
+
+#### Request
+
+```GET https://www.modpackindex.com/api/v1/mod/716.json```
+
+#### Result
 
 ```
 {

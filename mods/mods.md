@@ -24,7 +24,13 @@ Defaults to 100.
 
 Defaults to 0.
 
-### Sample Result
+### Sample
+
+#### Request
+
+```GET https://www.modpackindex.com/api/v1/mods/1-7-10.json?limit=2```
+
+#### Result
 
 ```
 {
