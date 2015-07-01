@@ -12,11 +12,11 @@ List specific details for a modpack, including what mods are included.
 
 ### Sample
 
-#### Request
+**Request**
 
 ```GET https://www.modpackindex.com/api/v1/modpack/41.json```
 
-#### Result
+**Result**
 
 ```
 {
