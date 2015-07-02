@@ -1,7 +1,7 @@
 Introduction
 ==========================
 
-The API provides you a way to get data from Modpack Index in a structured way. Currently we support JSON.
+This API provides a way for you to get data from Modpack Index in a structured way. Currently we only support JSON.
 
 ##Navigation
 
