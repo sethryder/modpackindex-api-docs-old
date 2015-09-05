@@ -22,7 +22,7 @@ List specific details for a modpack, including what mods are included.
 {
     "id": 41,
     "name": "Drone Pack",
-    "deck": "A bee based Modpack. Explore worlds searching for bees. Collect bees and breed them to create new, better bees. Breeding is to much work? Then genetically modify bees to make them do anything. While on the hunt for bees you are being hunted.",
+    "short_description": "A bee based Modpack. Explore worlds searching for bees. Collect bees and breed them to create new, better bees. Breeding is to much work? Then genetically modify bees to make them do anything. While on the hunt for bees you are being hunted.",
     "website": "http://forum.feed-the-beast.com/threads/1-7-10-drone-pack-bees-hqm-two-quest-routes-tech.52449/",
     "download_link": "http://www.feed-the-beast.com/#download",
     "donate_link": "http://forum.feed-the-beast.com/threads/1-7-10-drone-pack-bees-hqm-two-quest-routes-tech.52449/",
@@ -32,7 +32,7 @@ List specific details for a modpack, including what mods are included.
         {
             "id": 2,
             "name": "Applied Energistics 2",
-            "deck": "Applied Energistics 2 is a Minecraft Mod which contains a large amount of new content, mostly centered around the concept of using Energy,",
+            "short_description": "Applied Energistics 2 is a Minecraft Mod which contains a large amount of new content, mostly centered around the concept of using Energy,",
             "website": "http://ae-mod.info/",
             "download_link": "http://ae-mod.info/Downloads/",
             "donate_link": "http://ae-mod.info/",
@@ -53,7 +53,7 @@ List specific details for a modpack, including what mods are included.
         {
             "id": 9,
             "name": "Big Reactors",
-            "deck": "A mod which adds multi-block power systems capable of providing large amounts of RF power to Minecraft.",
+            "short_description": "A mod which adds multi-block power systems capable of providing large amounts of RF power to Minecraft.",
             "website": "http://www.big-reactors.com/",
             "download_link": "http://www.big-reactors.com/#/download",
             "donate_link": "http://www.big-reactors.com/",
@@ -74,7 +74,7 @@ List specific details for a modpack, including what mods are included.
         {
             "id": 14,
             "name": "BuildCraft",
-            "deck": "Extends Minecraft with pipes, auto-crafting, quarries, engines, and more.",
+            "short_description": "Extends Minecraft with pipes, auto-crafting, quarries, engines, and more.",
             "website": "http://www.mod-buildcraft.com/",
             "download_link": "http://www.mod-buildcraft.com/download/",
             "donate_link": "http://www.mod-buildcraft.com/",
@@ -95,7 +95,7 @@ List specific details for a modpack, including what mods are included.
         {
             "id": 15,
             "name": "Carpenter's Blocks",
-            "deck": "Adds slopes and a custom variety of vanilla-inspired blocks to Minecraft.",
+            "short_description": "Adds slopes and a custom variety of vanilla-inspired blocks to Minecraft.",
             "website": "http://www.carpentersblocks.com/",
             "download_link": "http://www.carpentersblocks.com/downloads.html",
             "donate_link": "http://www.carpentersblocks.com/",
@@ -116,7 +116,7 @@ List specific details for a modpack, including what mods are included.
         {
             "id": 18,
             "name": "CodeChickenCore",
-            "deck": "A library of classes that all mods by Chicken Bones use.",
+            "short_description": "A library of classes that all mods by Chicken Bones use.",
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods",
             "download_link": "http://chickenbones.net/Pages/links.html",
             "donate_link": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods",

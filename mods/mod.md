@@ -22,7 +22,7 @@ List details for a mod, including what modpacks the mod is included in.
 {
     "id": 716,
     "name": "Cart Livery",
-    "deck": "Allows you to paint your carts in all 16 glorious sheep colors, and apply colored stickers to them.",
+    "short_description": "Allows you to paint your carts in all 16 glorious sheep colors, and apply colored stickers to them.",
     "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091897-cartlivery",
     "download_link": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091897-cartlivery",
     "donate_link": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091897-cartlivery",
@@ -32,7 +32,7 @@ List details for a mod, including what modpacks the mod is included in.
         {
             "id": 64,
             "name": "A Simple Life",
-            "deck": "A lite pack that aims at creating living communities and lands of adventure.",
+            "short_description": "A lite pack that aims at creating living communities and lands of adventure.",
             "website": "http://www.curse.com/modpacks/minecraft/229739-a-simple-life",
             "download_link": "http://www.curse.com/modpacks/minecraft/229739-a-simple-life",
             "donate_link": "http://www.curse.com/modpacks/minecraft/229739-a-simple-life",

@@ -39,7 +39,7 @@ Defaults to 0.
         {
             "id": 1,
             "name": "AOBD 2",
-            "deck": "Automatically detects every single ore from every single mod you have installed and creates the necessary dusts and etc in order for that metal to be processed on several mod's machines!",
+            "short_description": "Automatically detects every single ore from every single mod you have installed and creates the necessary dusts and etc in order for that metal to be processed on several mod's machines!",
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528-aobd-2-process-all-the-ores",
             "download_link": "",
             "donate_link": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528-aobd-2-process-all-the-ores",
@@ -60,7 +60,7 @@ Defaults to 0.
         {
             "id": 2,
             "name": "Applied Energistics 2",
-            "deck": "Applied Energistics 2 is a Minecraft Mod which contains a large amount of new content, mostly centered around the concept of using Energy,",
+            "short_description": "Applied Energistics 2 is a Minecraft Mod which contains a large amount of new content, mostly centered around the concept of using Energy,",
             "website": "http://ae-mod.info/",
             "download_link": "http://ae-mod.info/Downloads/",
             "donate_link": "http://ae-mod.info/",

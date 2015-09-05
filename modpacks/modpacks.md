@@ -38,7 +38,7 @@ Defaults to 0.
         {
             "id": 1,
             "name": "Direwolf20 1.7",
-            "deck": "Play along with Direwolf20 using the same pack he uses in his SSP YouTube series.",
+            "short_description": "Play along with Direwolf20 using the same pack he uses in his SSP YouTube series.",
             "website": "http://www.feed-the-beast.com/modpacks/direwolf20_17",
             "download_link": "http://www.feed-the-beast.com/modpacks/direwolf20_17",
             "donate_link": "http://www.feed-the-beast.com/modpacks/direwolf20_17",
@@ -59,7 +59,7 @@ Defaults to 0.
         {
             "id": 2,
             "name": "FTB Lite 3",
-            "deck": "FTB Lite is a pack built with older computers in mind. It also functions as a basic foundation pack for creators to use to expand on.",
+            "short_description": "FTB Lite is a pack built with older computers in mind. It also functions as a basic foundation pack for creators to use to expand on.",
             "website": "http://www.feed-the-beast.com/modpacks/FTBLite3",
             "download_link": "http://www.feed-the-beast.com/modpacks/FTBLite3",
             "donate_link": "http://www.feed-the-beast.com/modpacks/FTBLite3",
