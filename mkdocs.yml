@@ -9,3 +9,5 @@ pages:
     - Mod: mods/mod.md
     - Servers: servers/servers.md
     - Server: servers/server.md
+    - Streams: servers/streams.md
+    - Stream: servers/stream.md
