@@ -1,4 +1,4 @@
-The Modpack Index API Docs Have Moved
+The Modpack Index API docs have moved [here](https://www.modpackindex.com/api).
 ==========================
 
-## You can find the new API docs [here](https://www.modpackindex.com/api).
+## 
