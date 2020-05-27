@@ -1,2 +1,2 @@
-# modpackindex-api-docs
-Documentation for the Modpack Index API
+The Modpack Index API docs have moved [here](https://www.modpackindex.com/api).
+==========================
